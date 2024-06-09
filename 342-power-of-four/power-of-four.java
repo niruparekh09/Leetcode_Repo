@@ -9,7 +9,7 @@ class Solution {
                 if (num == 1) {
                     return true;
                 }
-            } else if(num%4 >0){
+            } else if (num % 4 > 0) {
                 return false;
             }
         }
